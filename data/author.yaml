@@ -1,0 +1,18 @@
+# some information about you
+name: "Sabare Vicor"
+nickname: "Sabare"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hey, I am"
+image: "images/author/john.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "sabarevictor@gmail.com"
+  phone: "+254790810876"
+
+# some summary about what you do
+summary:
+  - I am a Data Scientist
+  - I am a Devops
+  - I love Machine Learning
+  - I work on open-source projects
+  - I love to work with some fun projects
