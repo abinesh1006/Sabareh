@@ -1,4 +1,4 @@
-👋🏾👋🏾My name is Sabare Victor Oketch📚
+👋🏾👋🏾My name is Sabare Victor Oketch📚 \n
 I am a:
 🚀Data Scientist, 
 ⚛️Data Analyst, 
