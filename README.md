@@ -13,10 +13,10 @@
 >  <a href="https://fb.com/tolulope.fakunle.1" target="_blank"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
 >      alt="Tolulope Fakunle" height="30" width="40" /></a> 
->  <a href="https://www.instagram.com/tolucoder" target="_blank"><img align="center"
+>  <a href="https://www.instagram.com/sabarevictor" target="_blank"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
 >      alt="Tolulope Fakunle" height="30" width="40" /></a> 
-> <a href="https://twitter.com/FakunleTolu" target="_blank"><img align="center"
+> <a href="https://twitter.com/sabare12" target="_blank"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
 >      alt="Tolulope Fakunle" height="30" width="40" /></a> 
 > </p>
@@ -62,7 +62,7 @@
 >
 > <br>
 > <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sabareh&layout=compact&theme=light&hide_border=false" />
-> <img align="left" src="https://github-readme-stats.vercel.app/api?username=Tolulope05&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=light&hide_border=false&border_radius=2&hide=contribs" alt=" Sabare Victor's github stats" />
+> <img align="left" src="https://github-readme-stats.vercel.app/api?username=Sabareh&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=light&hide_border=false&border_radius=2&hide=contribs" alt=" Sabare Victor's github stats" />
 > <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sabareh&" alt="Sabareh" /></p>
 
 
