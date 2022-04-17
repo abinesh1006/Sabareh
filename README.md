@@ -6,19 +6,19 @@
 ><p align="left">
 > <a href="https://www.linkedin.com/in/sabare-victor-oketch-7070021ba/" target="_blank"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
->      alt="Tolulope Fakunle" height="30" width="40" /></a> 
->    <a href="https://wa.link/4clrdv" target="_blank_"><img align="center"
+>      alt="Sabare Victor" height="30" width="40" /></a> 
+>    <a href="" target="_blank_"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
->      alt="Tolulope Fakunle" height="30" width="40" /></a> 
->  <a href="https://fb.com/tolulope.fakunle.1" target="_blank"><img align="center"
+>      alt="Sabare Victor" height="30" width="40" /></a> 
+>  <a href="" target="_blank"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
->      alt="Tolulope Fakunle" height="30" width="40" /></a> 
+>      alt="Sabare Victor" height="30" width="40" /></a> 
 >  <a href="https://www.instagram.com/sabarevictor" target="_blank"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
->      alt="Tolulope Fakunle" height="30" width="40" /></a> 
+>      alt="Sabare Victor" height="30" width="40" /></a> 
 > <a href="https://twitter.com/sabare12" target="_blank"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
->      alt="Tolulope Fakunle" height="30" width="40" /></a> 
+>      alt="Sabare Victor" height="30" width="40" /></a> 
 > </p>
 >
 > <br>
