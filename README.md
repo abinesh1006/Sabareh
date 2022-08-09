@@ -5,16 +5,16 @@
 ><h3 align="left">Connect with me:</h3>
 ><p align="left">
 > <a href="https://www.linkedin.com/in/sabare-victor-oketch-7070021ba/" target="_blank"><img align="center"
->      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+>      src="https://raw.githubusercontent.com/sabareh/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
 >      alt="Sabare Victor" height="30" width="40" /></a> 
 >    <a href="" target="_blank_"><img align="center"
->      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
+>      src="https://raw.githubusercontent.com/sabareh/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
 >      alt="Sabare Victor" height="30" width="40" /></a> 
 >  <a href="" target="_blank"><img align="center"
->      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+>      src="https://raw.githubusercontent.com/sabareh/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
 >      alt="Sabare Victor" height="30" width="40" /></a> 
 >  <a href="https://www.instagram.com/sabarevictor" target="_blank"><img align="center"
->      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+>      src="https://raw.githubusercontent.com/sabareh/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
 >      alt="Sabare Victor" height="30" width="40" /></a> 
 > <a href="https://twitter.com/sabare12" target="_blank"><img align="center"
 >      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
