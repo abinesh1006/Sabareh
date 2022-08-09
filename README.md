@@ -1,6 +1,6 @@
 > #### <h1>👋Sabare Victor Oketch </h1>
 > 
-> Data Scientist || Software Engineer || Data Analyst
+> Data Scientist || Software Engineer || Data Analyst || Aspring A.I Engineer.
 >
 ><h3 align="left">Connect with me:</h3>
 ><p align="left">
